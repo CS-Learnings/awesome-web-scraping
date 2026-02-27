@@ -1,5 +1,13 @@
 # How to Contribute
 
+## IMPORTANT. READ THIS FIRST.
+
+DO NOT ADD WEB-SERVICES. THIS LIST IS FOR STANDALONE SOFTWARE.
+
+DO NOT ADD FRESH PROJECTS. ANY PROJECT WHICH AGE IS LESS THAN HALF A YEAR WILL BE REJECTED.
+
+## How to create pull-request
+
 * Clone the awesome-web-scraping repo
 * Add section if needed:
     * Add section description
