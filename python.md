@@ -404,6 +404,7 @@ Tools to automate multiple actions on a website.
 * [advertools](https://github.com/eliasdabbas/advertools) - A customizable crawler to analyze SEO and content of pages and websites.
 * [photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT
 * [extractnet](https://github.com/currentsapi/extractnet) - Machine Learning based content and metadata extraction in Python 3
+* [visura-api](https://github.com/zornade/visura-api) - REST API for automated Italian cadastral property record extraction from the SISTER portal, using Playwright for browser automation with SPID authentication.
 
 ### Web Automation : Account Creation
 
