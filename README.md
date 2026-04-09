@@ -30,7 +30,7 @@ Lists of packages, services and manuals related to web scraping.
 
 ## How to Contribute to This List
 
-See [Contributing](https://github.com/lorien/web-scraping/blob/master/CONTRIBUTING.md) guide.
+Create new issue. Use "Add Project Request" template. In the issue provide a link to the project. DO NOT ADD projects if its age is less than half a year. DO NOT ADD project if it is about AI agent automation.
 
 ## Credits
 
