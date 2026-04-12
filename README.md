@@ -2,15 +2,6 @@
 
 Lists of packages, services and manuals related to web scraping.
 
-## How to Contribute to This List
-
-Create new issue. Use "Add Project Request" template. In the issue provide a link to the project.
-
-Restricted content:
-* DO NOT ADD a project if its age is less than half a year
-* DO NOT ADD a project if it is about AI agent automation
-* DO NOT ADD a project if it is only a wrapper/proxy to remote paid/free service (captcha services is exception).
-
 ## Topics
 
 * [Python](https://github.com/lorien/web-scraping/blob/master/python.md) - Python packages
@@ -36,6 +27,15 @@ Restricted content:
 ## Telegram Discussion Groups
 * [@grablab](https://t.me/grablab) - talks in English
 * [@grablab_ru](https://t.me/grablab_ru) - talks in Russian
+
+## How to Contribute to This List
+
+Create a new issue. In the issue, provide a link to the project. Either provide a SHORT BRIEF (up to 200 characters) PLAIN TEXT description or do not provide description at all. Do not use emojis and item lists in the description.
+
+Restricted content:
+* DO NOT ADD a project if its age is less than half a year
+* DO NOT ADD a project if it is about AI agent automation
+* DO NOT ADD a project if it is only a wrapper/proxy for remote service (captcha and proxy services are exception from this rule).
 
 ## Credits
 
