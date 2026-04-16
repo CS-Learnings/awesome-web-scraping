@@ -30,12 +30,7 @@ Lists of packages, services and manuals related to web scraping.
 
 ## How to Contribute to This List
 
-Create a new issue. In the issue, provide a link to the project. Either provide a SHORT BRIEF (up to 200 characters) PLAIN TEXT description or do not provide description at all. Do not use emojis and item lists in the description.
-
-Restricted content:
-* DO NOT ADD a project if its age is less than half a year
-* DO NOT ADD a project if it is about AI agent automation
-* DO NOT ADD a project if it is only a wrapper/proxy for remote service (captcha and proxy services are exception from this rule).
+Read CONTRIBUTING.md document.
 
 ## Credits
 
