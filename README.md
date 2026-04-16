@@ -1,6 +1,6 @@
 # Awesome Web Scraping
 
-Lists of packages, services and manuals related to web scraping.
+List of packages, services, and manuals related to web scraping.
 
 ## Topics
 
@@ -12,7 +12,7 @@ Lists of packages, services and manuals related to web scraping.
 * [Command Line Tools](https://github.com/lorien/web-scraping/blob/master/cli.md) - tools with a command line interface
 * [Web Scraping Manuals](https://github.com/lorien/awesome-web-scraping/blob/master/manuals.md) - list of articles and books teaching web scraping
 * [dhamaniasad / HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - list of (almost) all headless web browsers in existence
-* [DNS over HTTPS providers](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - list of DNS over HTTPs providers
+* [DNS over HTTPS providers](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - list of DNS over HTTPS providers
 * [Awesome Pastebins](https://github.com/lorien/awesome-pastebins) - list of pastebin sites
 
 ## Captcha Solving Services
@@ -30,8 +30,8 @@ Lists of packages, services and manuals related to web scraping.
 
 ## How to Contribute to This List
 
-Read CONTRIBUTING.md document.
+Please see the [CONTRIBUTING.md](CONTRIBUTING.md) document.
 
 ## Credits
 
-The list is based initially on some data from these sources [awesome-python](https://github.com/vinta/awesome-python), [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-ruby](https://github.com/markets/awesome-ruby), [ruby-nlp](https://github.com/diasks2/ruby-nlp), [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
+The list is initially based on partial data from these sources [awesome-python](https://github.com/vinta/awesome-python), [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-ruby](https://github.com/markets/awesome-ruby), [ruby-nlp](https://github.com/diasks2/ruby-nlp), [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
