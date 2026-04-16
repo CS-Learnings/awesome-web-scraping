@@ -35,6 +35,7 @@ This list contains JavaScript libraries related to web scraping and data process
 * [superagent](https://github.com/visionmedia/superagent) - Ajax for Node.js and browsers (JS HTTP client)
 * [urllib](https://github.com/node-modules/urllib) - Request HTTP(s) URLs in a complex world
 * [needle](https://github.com/tomas/needle) - Nimble, streamable HTTP client for Node.js. With proxy, iconv, cookie, deflate & multipart support
+* [node-wreq](https://github.com/StopMakingThatBigFace/node-wreq) - Node.js (ESM/CJS) HTTP client with native TLS/HTTP2 browser impersonation, JA3/JA4 control and WebSocket support.
 
 ## Web-Scraping Frameworks
 * [webparsy](https://github.com/joseconstela/webparsy) - NodeJS lib and cli for scraping websites using Puppeteer and YAML
