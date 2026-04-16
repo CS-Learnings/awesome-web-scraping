@@ -66,8 +66,8 @@ def reject_pr(
     )
     comment_body = (
         "This pull request has been automatically rejected because its {}"
-        ' contains restricted word "{}". Check CONTRIBUTING.md document for list of things'
-        " which are not allowed in this repository list.".format(scope, reason)
+        ' contains the restricted word "{}". Please see the CONTRIBUTING.md document'
+        " for a list of disallowed content in this repository.".format(scope, reason)
     )
     print(comment_body)
     api.net.request(
