@@ -17,6 +17,8 @@ jobs:
         with:
           python-version: '3.x'
       - name: Run rejection script
+        with:
+          restricted-words: "ai,mcp,apify"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
