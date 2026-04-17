@@ -13,10 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
-      - name: Run rejection script
+      - uses: lorien/pr-policy-checker@main
         with:
           restricted-words: "ai,mcp,apify"
         env:
@@ -24,6 +21,3 @@ jobs:
           GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
           GITHUB_REPOSITORY_NAME: ${{ github.event.repository.name }}
           PR_NUMBER: ${{ github.event.pull_request.number }}
-        run: |
-          pip install urllib3
-          python .github/check_pr.py
