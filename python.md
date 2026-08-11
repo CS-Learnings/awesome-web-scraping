@@ -435,6 +435,7 @@ Libraries for working with WebSocket.
 
 ## Proxy Server
 
+* [ProxyForFree](https://github.com/vsmutok/ProxyForFree) - Python tool and FastAPI service to manage multiple local proxy servers routed through free OpenVPN configurations.
 * [scylla](https://github.com/imWildCat/scylla) - Intelligent proxy pool for Humans
 * [ProxyBroker](https://github.com/constverum/Proxybroker) - Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS
 * [shadowsocks](https://github.com/shadowsocks/shadowsocks) - A fast tunnel proxy that helps you bypass firewalls (TCP & UDP support, User management API, TCP Fast Open, Workers and graceful restart, Destination IP blacklist)
