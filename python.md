@@ -398,6 +398,7 @@ Tools to automate multiple actions on a website.
 * [Haul](https://github.com/vinta/Haul) - An Extensible Image Crawler.
 * [you-get](http://www.soimort.org/you-get/) - A YouTube/Youku/Niconico video downloader written in Python 3.
 * [youtube-dl](http://rg3.github.io/youtube-dl/) - A small command-line program to download videos from YouTube.
+* [ytscrape](https://github.com/vsmutok/ytscrape) - Fast, lightweight, pure-HTTP Python library for scraping YouTube search, video & channel metadata, comments, and transcripts (sync & async).
 * [WikiTeam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis.
 * [linkchecker](https://github.com/wummel/linkchecker) - check links in web documents or full websites
 * [python-sitemap](https://github.com/c4software/python-sitemap) - Mini website crawler to make sitemap from a website.
