@@ -132,7 +132,6 @@ This list contains JavaScript libraries related to web scraping and data process
   * [guessLanguage.js](https://github.com/richtr/guessLanguage.js) - A natural language detection library based on trigram statistical analysis for Node.js
 
 ## Browser automation and emulation
-* [Figranium](https://github.com/figranium/figranium) - Dockerized, self-hosted browser automation platform built on Playwright that lets you visually build and run browser tasks using modular action blocks. Workflows can be executed through the web interface, REST API, MCP integration, or dedicated n8n node—making it ideal for automation, web scraping, internal tools, and AI-powered browser agents.
 * [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit.
 * [slimerjs](https://github.com/laurentj/slimerjs) - A PhantomJS-like tool running Gecko.
 * [casperjs](https://github.com/n1k0/casperjs) - Navigation scripting & testing utility for PhantomJS and SlimerJS.
@@ -143,6 +142,7 @@ This list contains JavaScript libraries related to web scraping and data process
 * [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.
 * [wendigo](https://github.com/angrykoala/wendigo) - Test-oriented headless browser, built on top of Puppeteer.
 * [Playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
+* [Figranium](https://github.com/figranium/figranium) - Dockerized browser automation platform built on Playwright that lets you visually build and run browser tasks using modular action blocks and execute them via API
 
 ## Multiprocessing
   * [nexpect](https://github.com/nodejitsu/nexpect) - spawn and control child processes in node.js with ease
