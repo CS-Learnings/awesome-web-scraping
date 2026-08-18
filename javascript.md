@@ -142,6 +142,7 @@ This list contains JavaScript libraries related to web scraping and data process
 * [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.
 * [wendigo](https://github.com/angrykoala/wendigo) - Test-oriented headless browser, built on top of Puppeteer.
 * [Playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
+* [Сapmonstercloud](https://github.com/CapMonsterCloud/capmonster-nodejs-captcha-solver) - Node.js library for automating CAPTCHA solving with CapMonster Cloud API
 
 ## Multiprocessing
   * [nexpect](https://github.com/nodejitsu/nexpect) - spawn and control child processes in node.js with ease
