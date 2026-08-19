@@ -454,6 +454,7 @@ Libraries for working with WebSocket.
 * [python-anticaptcha](https://github.com/ad-m/python-anticaptcha) - Client library for solve captchas with anti-captcha.com support
 * [python3-anticaptcha](https://github.com/AndreiDrang/python3-anticaptcha) - Python library for anti-captcha services
 * [unicaps](https://github.com/sergey-scat/unicaps) - a unified Python API for CAPTCHA solving services
+* [capmonstercloud-client](https://github.com/CapMonsterCloud/capmonster-python-captcha-solver) - Asynchronous Python library for CAPTCHA solving via CapMonster Cloud API
 
 ## Other python lists
 
