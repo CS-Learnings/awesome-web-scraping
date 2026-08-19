@@ -407,6 +407,7 @@ Tools to automate multiple actions on a website.
 * [extractnet](https://github.com/currentsapi/extractnet) - Machine Learning based content and metadata extraction in Python 3
 * [visura-api](https://github.com/zornade/visura-api) - REST API for automated Italian cadastral property record extraction from the SISTER portal, using Playwright for browser automation with SPID authentication.
 * [amazon-orders](https://github.com/alexdlaird/amazon-orders) - A Python library (and CLI) for Amazon order history; line items, prices, and receipts.
+* [ytscrape](https://github.com/vsmutok/ytscrape) - Fast, lightweight, pure-HTTP Python library for scraping YouTube search, video & channel metadata, comments, and transcripts (sync & async).
 
 ### Web Automation : Account Creation
 
@@ -439,6 +440,7 @@ Libraries for working with WebSocket.
 * [ProxyBroker](https://github.com/constverum/Proxybroker) - Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS
 * [shadowsocks](https://github.com/shadowsocks/shadowsocks) - A fast tunnel proxy that helps you bypass firewalls (TCP & UDP support, User management API, TCP Fast Open, Workers and graceful restart, Destination IP blacklist)
 * [tproxy](https://github.com/benoitc/tproxy) - tproxy is a simple TCP routing proxy (layer 7) built on Gevent that lets you configure the routine logic in Python
+* [ProxyForFree](https://github.com/vsmutok/ProxyForFree) - Python tool and FastAPI service to manage multiple local proxy servers routed through free OpenVPN configurations.
 
 ## Whois
 
@@ -454,6 +456,7 @@ Libraries for working with WebSocket.
 * [python-anticaptcha](https://github.com/ad-m/python-anticaptcha) - Client library for solve captchas with anti-captcha.com support
 * [python3-anticaptcha](https://github.com/AndreiDrang/python3-anticaptcha) - Python library for anti-captcha services
 * [unicaps](https://github.com/sergey-scat/unicaps) - a unified Python API for CAPTCHA solving services
+* [capmonstercloud-client](https://github.com/CapMonsterCloud/capmonster-python-captcha-solver) - Asynchronous Python library for CAPTCHA solving via CapMonster Cloud API
 
 ## Other python lists
 
