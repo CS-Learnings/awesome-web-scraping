@@ -20,8 +20,9 @@ This list contains JavaScript libraries related to web scraping and data process
    * [DNS Resolving](#dns-resolving)
    * [Computer Vision](#computer-vision)
    * [Proxy Server](#proxy-server)
-   * [Other JavaScript Lists](#other-javascript-lists)
    * [Data Structure](#data-structure)
+   * [Captcha Solving](#captcha-solving)
+   * [Other JavaScript Lists](#other-javascript-lists)
 
 ## Network
 * [request](https://github.com/request/request) - Simplified HTTP request client.
@@ -210,6 +211,9 @@ This list contains JavaScript libraries related to web scraping and data process
 ## Data Structure
 * [immutable](https://github.com/facebook/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 * [lodash](https://github.com/lodash/lodash) - More consistent cross-environment iteration support for arrays, strings, objects, and arguments objects
+
+## Captcha Solving
+* [capmonster-nodejs-captcha-solver](https://github.com/CapMonsterCloud/capmonster-nodejs-captcha-solver) - Node.js library for automating CAPTCHA solving with CapMonster Cloud API
 
 ## Other JavaScript lists
 
