@@ -91,6 +91,32 @@ locally with the environment variables `GITHUB_TOKEN`,
 `GITHUB_REPOSITORY_OWNER`, `GITHUB_REPOSITORY_NAME`, `PR_NUMBER`, and
 optionally `MIN_AGE_DAYS`.
 
+## Repo Content Check (CI)
+
+`tools/check-repo-content.mjs` is a CI helper, not part of `npm run check`.
+It runs in `.github/workflows/check_repo_content.yml` on pull requests and:
+
+- Fetches the PR diff via the GitHub API and collects `github.com/owner/repo`
+  links from newly added resource-list lines.
+- For each repo, gathers its description, topics, and README text.
+- Sends that text to an OpenCode Go model (`OPENCODE_MODEL`, default
+  `mimo-v2.5`) via the OpenAI-compatible chat completions endpoint and asks
+  whether the project is primarily about AI agents, agentic AI, or MCP.
+- Posts a comment on the PR (marker `<!-- repo-content-check -->`) listing any
+  such projects and reminding that AI projects are not accepted; it updates or
+  removes the comment on later pushes so the thread stays current. It only
+  comments — it does not reject or close the PR.
+
+It requires a GitHub token, an `OPENCODE_API_KEY` (OpenCode Go subscription),
+and network access, so it only runs in CI. If `OPENCODE_API_KEY` is unset the
+check skips quietly. Run it locally in dry-run mode without touching GitHub
+comments:
+
+```
+OPENCODE_API_KEY=... node tools/check-repo-content.mjs --dry-run \
+  --repos owner/repo,owner/repo
+```
+
 ## Changing the Rules
 
 The specification documents are the source of truth. When a convention
